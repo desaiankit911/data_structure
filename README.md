@@ -1,2 +1,2 @@
 # data_structure
-this repository contain Binary Search Tree data structure created using python  
+this repository contain Binary Search Tree & Linked List data structure created using python  
