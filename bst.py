@@ -36,7 +36,7 @@ class bst:
                 cur_node.right_child = node(value)
             else:
                 self._insert(value,cur_node.right_child)
-        else:
+        else: 
             print("value already exist")
         
     def print_bst(self):
